@@ -1,0 +1,8 @@
+[build-system]
+requires = []
+build-backend = "flit_core.buildapi"
+
+[project]
+name = "IOPTEE-Si-TFLN-400 documentation"
+authors = [{ name = "kevinchen", email = "kevin_chen@latitudeda.com" }]
+dynamic = ["version", "description"]
