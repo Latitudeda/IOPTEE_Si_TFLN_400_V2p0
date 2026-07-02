@@ -29,7 +29,7 @@ This section summarizes common issues and adjustment suggestions regarding proje
     # Old syntax ( PhotoCAD V1.7.5 )
     fp.export_gds(library, file=gds_file, auto_flatten=False)
     # New syntax ( PhotoCAD V1.7.6 )
-    fp.export_gds(library, file=gds_file, auto_flatten={pdk.ppln_wg_BB: False,pdk.edge_coupler_3p5um_y_BB: False})
+    fp.export_gds(library, file=gds_file, auto_flatten={pdk.crossing: False,pdk.edge_coupler: False})
 
 *  It is recommended to consult the latest Latitudeda PDK developer manual for more practical examples and detailed instructions.
 

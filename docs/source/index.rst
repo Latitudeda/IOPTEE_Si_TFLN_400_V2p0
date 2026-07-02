@@ -1,14 +1,14 @@
-IOPTEE_SiN_TFLN_V1p0_Latitudeda documentation
+IOPTEE_Si_TFLN_400_V2p0_Latitudeda documentation
 ====================================================================
 .. image:: ./images/LDA_LOGO_WIDE.png
    :width: 100%
    :align: center
 
-This documentation outlines the contents and usage of the **Latitudeda PDK** for **IOPTEE SiN TFLN** (v1.0).
+This documentation outlines the contents and usage of the **Latitudeda PDK** for **IOPTEE Si TFLN** (v2.0).
 
 The PDK is compatible with **PhotoCAD** and **Advanced SDL** for layout generation. Key features and capabilities include:
 
-- Designing custom components using the defined layers from **IOPTEE SiN TFLN**.
+- Designing custom components using the defined layers from **IOPTEE Si TFLN**.
 - Creating circuits with **IOPTEE**'s predefined components and **Latitudeda**'s base PCell.
 - Automating routing with supported waveguide types and metal line configurations.
 

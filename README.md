@@ -1,2 +1,2 @@
-# IOPTEE_SiN_TFLN_PDK
-IOPTEE-SiN-TFLN PDK documentation
+# IOPTEE_Si_TFLN_PDK
+IOPTEE-Si-TFLN PDK documentation

@@ -2,12 +2,12 @@
 
 # -- Project information
 
-project = 'IOPTEE SiN TFLN documentation'
+project = 'IOPTEE Si TFLN 400 documentation'
 copyright = '2025, Latitudeda.com'
 author = 'latitudeda.com'
 
-release = '1.0'
-version = '1.0'
+release = '2.0'
+version = '2.0'
 
 # -- General configuration
 

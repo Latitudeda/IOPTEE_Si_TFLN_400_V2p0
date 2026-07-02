@@ -7,11 +7,12 @@ Component library
    crossing
    ec
    fgc
+   heater
+   microring
    mmi
    mzi
-   heater
-   transition
    pm
+   sbend
 
 
 

@@ -10,10 +10,8 @@ The waveguide setting are defined in the wg folder.
    wg_constant
    wg_type
    wg_factory
-   wg_ln
-   wg_ln_bends
-   wg_sin
-   wg_sin_bends
+   wg_rib1
+   wg_rib1_bends
 
 
 

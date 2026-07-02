@@ -1,3 +1,3 @@
 bands.py
 =========
-Indicated the applicable bands used in IOPTEE SiN TFLN.
+Indicated the applicable bands used in **IOPTEE Si TFLN**.
