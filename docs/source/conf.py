@@ -4,7 +4,7 @@
 
 project = 'IOPTEE Si TFLN 400 documentation'
 copyright = '2025, Latitudeda.com'
-author = 'latitudeda.com'
+author = 'www.latitudeda.com'
 
 release = '2.0'
 version = '2.0'
