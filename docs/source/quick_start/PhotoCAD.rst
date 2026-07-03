@@ -1,7 +1,7 @@
 PhotoCAD
 =======================================
 
-This section demonstrates how to import the **IOPTEE Si TFLN** into **PhotoCAD**. It is divided into two steps: creating a PhotoCAD workspace and importing the **IOPTEE Si TFLN**. If a PhotoCAD workspace has already been created, the user can skip to step 2: :ref:`import-pdk-step`.
+This section demonstrates how to import the **IOPTEE Si TFLN** into **PhotoCAD**. It is divided into two steps: creating a **PhotoCAD** workspace and importing the **IOPTEE Si TFLN**. If a **PhotoCAD** workspace has already been created, the user can skip to step 2: :ref:`import-pdk-step`.
 
 Create a PhotoCAD Workspace
 *******************************************
